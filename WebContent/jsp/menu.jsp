@@ -3,9 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Menu</title>
+	<title>Menu</title>
+	<meta name="section" content="About" />
 </head>
-<body>
+<body bgcolor="#EAEAEA">
 	<h1>Beverages</h1>
 	<p>Cappucino $3.25</p>
 	<p>Latte $3.35</p>
